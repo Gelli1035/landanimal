@@ -1,0 +1,13 @@
+#hi{
+    height:auto;
+    width:300px;
+}
+.shelter{
+    display:flex;
+    justify-content:space-around;
+    gap:10px;
+}
+#fon
+{
+    font-family: sans-serif;
+}
